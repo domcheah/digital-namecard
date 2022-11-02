@@ -12,6 +12,4 @@ item1.ADR;type=WORK;type=pref:;;Marina Square\n6 Raffles Blvd\, 03-308;;;039594;
 item1.X-ABADR:sg
 item2.URL;type=pref:tanium.com
 item2.X-ABLabel:_$!<HomePage>!$_
-item3.URL;type=pref:www.linkedin.com/in/dominic-cheah-5a35381/
-item3.X-ABLabel:_$!<Linkedin>!$_
 END:VCARD
